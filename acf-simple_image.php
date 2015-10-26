@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Advanced Custom Fields: Simple Image
-Plugin URI: PLUGIN_URL
+Plugin URI: https://github.com/statyanenko/acf_simple_image
 Description: Add ACF simple image field, that add ability to upload image without media library
 Version: 0.0.1
 Author: Sergey Tatyanenko
